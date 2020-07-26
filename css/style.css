@@ -1,0 +1,106 @@
+/**头部**/
+.header nav a:hover{color:#fe5341;}
+nav .on a{color:#fe5341;}
+.header .login{color:#fe5341;}
+.header .login:hover{background:#fe5341;color:#fff;}
+.header .search{background:url(img/search.png) no-repeat;}
+/**焦点图**/
+.focus{background:url(img/original.jpg) no-repeat center top;}
+.focus-info{color:#fff;}
+.focus-info .label span{background:rgba(255,255,255,.3);}
+.focus-info .btn a{background:#fe5341;color:#fff;}
+/**热门试用**/
+.title{color:#474747;line-height:1.6;}
+.title a.more{background:url(img/readMore.png) no-repeat right 7px;color:#fd6959;}
+.hot{padding-bottom:20px;}
+.hot a.prev{background:url(img/prev.png) no-repeat;}
+.hot a.next{background:url(img/next.png) no-repeat;}
+.slide-box dl{background:#fff;}
+.use dt .top-tip{color:#f5e8e8;}
+.use dt .shoufa{background:#fe5341;}
+.use dt .red span,.use dt .sq span,.use dt .red{color:#fe5341;}
+.use dt .tys{background:#fbf4cb;color:#c4a96a;}
+.use dt .green span,.use dt .green{color:#80c269;}
+.use dt .graw span,.use dt .graw{color:#ccc;}
+/*试用详情*/
+.useLc{background:#f0f0f0;}
+.useLc .lcList{color:#737373;}
+.lcList dt:nth-child(1):before{background:url(img/use1.png) no-repeat center top;}
+.lcList dt:nth-child(2):before{background:url(img/use2.png) no-repeat center top;}
+.lcList dt:nth-child(3):before{background:url(img/use3.png) no-repeat center top;}
+.lcList dt:nth-child(4):before{background:url(img/use4.png) no-repeat center top;}
+.lcList dt:nth-child(5):before{background:url(img/use5.png) no-repeat center top;}
+.useDetial .title:after{background:#fe5341;}
+.useDetial .top{color:rgb(255, 0, 0);}
+.useDetial .little{color:rgb(0, 112, 192);}
+.useDetial .red{color:rgb(255, 0, 0);}
+.listR .gm .money{color:#fe5341;}
+.listR .gm .buyBtn{color:#fff;background:#fe5341;}
+.listR .gm .buyBtn:hover{background:#f3250f;}
+.listR .gm .resource{color:#a3a3a3;}
+/**公共**/
+.common ul:after{clear:both;content:"";display:block;height:0;visibility:hidden;}
+.common ul li{background:#fff;}
+.common ul li a{color:#474747;}
+.common .info .name span{color:#a3a3a3;}
+.common .info .price{color:#fe5341;}
+.common .info .tip{color:#a3a3a3;}
+.icon .zan{background:url(img/zan.png) no-repeat left 4px;}
+.icon .look{background:url(img/reply.png) no-repeat left center;}
+.icon .xin{background:url(img/xin.png) no-repeat left center;}
+.listInfo li .info{background:rgba(255,255,255,.9);}
+.listInfo li .title{color:#474747;}
+.listInfo .click-look{color:#a3a3a3;}
+.listInfo .userInfo .avt{background:url(img/tx.jpg) no-repeat;}
+.listInfo .userInfo .name{color:#fe695a;}
+.listInfo .userInfo .time{color:#a3a3a3;}
+.bread,.bread a{color:#a3a3a3;}
+/**报告精选**/
+.report-box{background:#f7f7f7;}
+/**导购精选**/
+.guide li .info{background:url(img/listbg.jpg) no-repeat left bottom;background-size:221px 19px;}
+.playMore{color:#a3a3a3;}
+.playMore .more-btn{background:url(img/more.png) no-repeat left center;color:#fe5341;}
+.playMore .loading{background-image:url(img/loading-icon.gif);}
+/**发现酷玩**/
+.play-nav a,.category li a,.use-nav a{color:#a3a3a3;}
+.play-nav a.on{color:#fe5431;}
+.category li{background:#fff;}
+.category li dt::before{background:#fe5341;}
+.category li dd a:hover{color:#fe5431;}
+.use-nav a.on{color:#474747;}
+/**体验报告**/
+.listR .title:after{background:#fe5341;}
+.listR .info .text{color:#a3a3a3;}
+.listR .info h5{color:#474747;}
+/**详情**/
+.detail .listInfo{background:#fff;}
+.detail .top-info h1{color:#474747;}
+.detail .top-info .btm{color:#a3a3a3;}
+.detail .article-btm a,.detailFeel a{color:#a3a3a3;}
+.detailFeel{background:#fff;}
+.detailFeel dd a:hover{color:#fe5341;}
+.detailFeel dd a:before{background:url(img/xinRedo.png) no-repeat center center;}
+.detailFeel dd a:hover:before{background-image:url(img/xinRedh.png);}
+.detailFeel dd:last-child a:before{background:url(img/share_yj1.png) no-repeat center center;}
+.detailFeel dd:last-child a:hover:before{background-image:url(img/shareh_yj1.png);}
+/**合作**/
+.about .grawBg{background:#f3f3f3;}
+.about .grawBg h2{color:#444;}
+.about .listR a,.about .about-info{color:#535353;}
+.about .about-info h5{color:#474747;}
+/**底部**/
+.foot{background:#505050;color:#a3a3a3;}
+.foot a{color:#a3a3a3;}
+.foot dl dt{color:#fff;}
+/**返回顶部**/
+.backTop{background:url(img/back.png) no-repeat #e8e8e8 center center;}
+.backTop:hover{background-color:#c6c6c6;}
+/**注册**/
+.regBox{background:#fff;}
+.regBox .title:after{background:#fe5341;}
+.regForm input{background:#f7f7f7;color:#a3a3a3;}
+.regForm p.psw label{color:#a3a3a3;background:#f7f7f7;}
+.regForm p:nth-child(3) .getCode{color:#a3a3a3;}
+.regForm button{background:#fe5341;color:#fff;}
+.regForm button:hover{background:#fd301b;}
